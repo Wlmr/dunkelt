@@ -10,7 +10,7 @@
     "ui",
     "theme"
   ],
-  "repository": "https://github.com/Wlmr/dunkelt",
+  "repository": "https://github.com/Wlmr/dunkelt-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
